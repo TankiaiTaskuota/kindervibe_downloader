@@ -5,6 +5,8 @@ Bash script to download kindervibe app day information
 ## Installation
 
 Download sh file
+or 
+`git@github.com:TankiaiTaskuota/kindervibe_downloader.git`
 
 ## Usage
 `cd to Directory`
