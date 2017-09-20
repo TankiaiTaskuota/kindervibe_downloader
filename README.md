@@ -14,13 +14,13 @@ or
 Edit file and fill varaibles :
 
 Add AUTH_TOKEN:
-`AUTH_TOKEN=''; #AUTH_TOKEN from app`
+`AUTH_TOKEN='12356789abcdefgh';`
 
 Add kids ids:
-`CHILDS_IDS=(''); #CHILDS_IDS from app ('1' '2' '4')`
+`CHILDS_IDS=('1' '2');`
 
 Add path to save
-`CPATH='' #path to save info /home/user/path/`
+`CPATH='/home/user/path/'`
 
 Save and run:
 
