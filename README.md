@@ -13,7 +13,7 @@ Download sh file
 
 Get date from day :
 
-`bash rvibe_downloader 2016-05-05
+`bash rvibe_downloader 2016-05-05`
 
 ## Contributing
 
