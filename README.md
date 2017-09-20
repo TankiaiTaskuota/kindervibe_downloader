@@ -11,6 +11,14 @@ or
 ## Usage
 `cd to Directory`
 
+Edit file and fill varaibles :
+
+`AUTH_TOKEN=''; #AUTH_TOKEN from app
+CHILDS_IDS=(''); #CHILDS_IDS from app ('1' '2' '4')
+CPATH='' #path to save info /home/user/path/`
+
+Save and run:
+
 `bash rvibe_downloader`
 
 Get date from day :
